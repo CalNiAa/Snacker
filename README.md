@@ -1,4 +1,9 @@
-# College Craigslist:
+# group4
+# Calvin, Nishant, Arianna
+
+Top 3  Apps
+
+1. College Craigslist:
     - **Description** - Helps college students buy and sell goods/services around the campus. Goods can include anythings from books to furnitures and services may include tutoring, giving rides,etc.
 
     - **Category** - Shopping, Education,
@@ -9,7 +14,7 @@
     - **Habit** - Depending on the necessity for shopping 
     - **Scope** - Orginated as a better alternative of craigslist helping students buy and sell products without the hassle of travelling to far, and get better value of their goods/services
 
-# Snack Finder
+2. Snack Finder
     - **Description** - helps find places that sell cheap snacks and compares prices, or compares vending machine prices from campus/finds closest vending machine from current location.
     - **Category** - Food & Drink
     - **Mobile** - Maps, save location
@@ -19,7 +24,7 @@
     - **Scope** - Allows user to search businesses/retailers for snacks desired.
 
 
-# Lend Supplies
+3. Lend Supplies
     - **Description** - Find a person willing to lend "x" supply, or let lender list what they can lend out (with pictures as proof), keeps track of who you lent stuff to and how much it would cost the borrower to pay if lent item is lost, shares current location of lender or contact info.
     - **Category** - Education/Business
     - **Mobile** - Maps, location-sharing, camera
