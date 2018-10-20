@@ -5,6 +5,7 @@ Help find places that sell cheap snacks and compares prices, or compares vending
 
 ### App Idea Evaluation
 
+- Category: Food & Drink
 - Mobile: Maps, save location
 - Story: Allows user to shop for items they want without travelling very far, helps exchange goods, safer than other buy/sell apps since only for a specific college campus
 - Market: Snack lovers
