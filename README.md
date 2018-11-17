@@ -33,7 +33,6 @@ Optional Nice-to-have Stories
 * User can add friends
 * User can review a snack
 * User can create list of favorite snacks
-* 
 
 
 
@@ -75,7 +74,9 @@ Flow Navigation (Screen to Screen)
 ---
 
 ### Wireframes
-<img src="https://i.imgur.com/45sVvIa.jpg" width=600><br>
+<img src="https://i.imgur.com/45sVvIa.jpg" height=400><br>
+
+<img src="https://i.imgur.com/scUvVeA.gif" height=400><br>
 
 ---
 
