@@ -75,7 +75,8 @@ Flow Navigation (Screen to Screen)
 ---
 
 ### Wireframes
-https://i.imgur.com/45sVvIa.jpg
+<img src="https://i.imgur.com/45sVvIa.jpg" width=200><br>
+
 ---
 
 ### App Pitch Presentation
