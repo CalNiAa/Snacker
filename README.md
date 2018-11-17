@@ -75,7 +75,7 @@ Flow Navigation (Screen to Screen)
 ---
 
 ### Wireframes
-<img src="https://i.imgur.com/45sVvIa.jpg" width=200><br>
+<img src="https://i.imgur.com/45sVvIa.jpg" width=400><br>
 
 ---
 
